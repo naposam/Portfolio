@@ -468,3 +468,14 @@ header{
     margin-left: auto;
     margin-right: auto;
 }
+/*.footer button{
+    border:none !important;
+    background: #ff4d73 !important;
+    box-shadow:none !important;
+    border-radius: 0;
+    cursor: pointer;
+}*/
+
+.footer textarea{
+    padding-left: 5rem: 
+}
