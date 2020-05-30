@@ -80,6 +80,11 @@ strong { font-weight: var(--fw-bold) }
     letter-spacing: 2px;
     font-weight: var(--fw-bold);
     transition: transform 200ms ease-in-out;
+    border-radius: 5em;
+    -webkit-border-radius: 5em;
+    -moz-border-radius: 5em;
+    -ms-border-radius: 5em;
+    -o-border-radius: 5em;
 }
 
 .btn:hover {
@@ -316,6 +321,8 @@ header{
 .service {
     max-width: 500px;
     margin: 0 auto;
+  
+    border: 1px solid white;
 }
 
 @media (min-width: 800px) {
